@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XMGFMBase'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'XMGFMBase'
 
 # This description is used to generate tags and improve search results.
@@ -41,11 +41,11 @@ TODO: XMGFMBase是FM基础组件.
   c.source_files = 'XMGFMBase/Classes/Category/**/*'
   end
 
-  s.subspec 'Network' do |n|
-  n.source_files = 'XMGFMBase/Classes/Network/**/*'
-  n.dependency 'AFNetworking'
+#s.subspec 'Network' do |n|
+#n.source_files = 'XMGFMBase/Classes/Network/**/*'
+#n.dependency 'AFNetworking'
 #n.dependency 'SDWebImage', '~> 4.1.0'
-  end
+#end
 
   s.subspec 'Tool' do |t|
   t.source_files = 'XMGFMBase/Classes/Tool/**/*'
