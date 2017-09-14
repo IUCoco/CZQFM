@@ -44,6 +44,7 @@ TODO: XMGFMBase是FM基础组件.
   s.subspec 'Network' do |n|
   n.source_files = 'XMGFMBase/Classes/Network/**/*'
   n.dependency 'AFNetworking'
+  n.dependency 'SDWebImage'
   end
 
   s.subspec 'Tool' do |t|
