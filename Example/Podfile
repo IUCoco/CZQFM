@@ -1,3 +1,6 @@
+souece 'https://github.com/IUCoco/FMPrivateSpec.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 target 'XMGFMBase_Example' do

@@ -1,0 +1,22 @@
+{
+  "name": "XMGFMBase",
+  "version": "0.1.0",
+  "summary": "XMGFMBase",
+  "description": "TODO: XMGFMBase是FM基础组件.",
+  "homepage": "https://github.com/IUCoco/CZQFM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "IUCoco": "czq1157111246@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/IUCoco/CZQFM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMGFMBase/Classes/**/*"
+}
